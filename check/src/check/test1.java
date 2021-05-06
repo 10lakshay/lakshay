@@ -1,6 +1,9 @@
 package check;
 
 public class test1 {
+<<<<<<< HEAD
 
-	//another class
+	//another cla
+//anshi
+
 }
