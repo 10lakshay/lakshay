@@ -14,4 +14,6 @@ public class test1 {
 	//change for a
 	
 	int i=9;
+	int z=19;
+	int r=29;
 }
