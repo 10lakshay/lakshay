@@ -11,4 +11,7 @@ public class test1 {
 
 //trying
 //change kr diya hai
+	//change for a
+	
+	int i=9;
 }
